@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is E261-B3E4
+
+ Directory of E:\aws\git
+
+03/23/2021  10:05 AM    <DIR>          .
+03/23/2021  10:05 AM    <DIR>          ..
+03/23/2021  10:05 AM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  137,357,234,176 bytes free
