@@ -6,7 +6,8 @@ public class Public
 
 			System.out.println("hello world");
 
-                System.out.println(" hi welcome suresh")
+                System.out.println(" hi welcome suresh");
+			System.out.println(" hi welcome new edit");
 		}
 
 			
